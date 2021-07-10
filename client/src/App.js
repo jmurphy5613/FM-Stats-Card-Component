@@ -6,9 +6,7 @@ function App() {
     <div className="App">
       <div className="two-column-div">
         <div className="left-column">
-          <h1>Get insights that help your buissness grow</h1>
-          <p>
-          </p>
+          <h1 className="title">Get insights that help your buissness grow</h1>
         </div>
         <div className="right-column">
 
